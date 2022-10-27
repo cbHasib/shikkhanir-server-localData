@@ -1,0 +1,33 @@
+[
+    {
+      "course_id": 1,
+      "course_title": "HSC Physics 1st Paper",
+      "course_slug": "hsc-physics-1st-paper",
+      "course_content": [
+        {
+          "video_id": 1,
+          "video_name": "Some Key Concepts of Acid-Base Equilibrium",
+          "video_slug": "some-key-concepts-of-acid-base-equilibrium",
+          "video_embed_link": "https://www.youtube.com/embed/dhTs0IFwrAs?list=PLxSt9YDBipm7aQInbxNmwUCfEBaFOliwb"
+        },
+        {
+          "video_id": 2,
+          "video_name": "Ionic Product of Water",
+          "video_slug": "ionic-product-of-water",
+          "video_embed_link": "https://www.youtube.com/embed/4bBtnVmmIpY?list=PLxSt9YDBipm7aQInbxNmwUCfEBaFOliwb"
+        },
+        {
+          "video_id": 3,
+          "video_name": "Ostwalds Dilution Law",
+          "video_slug": "ostwalds-dilution-law",
+          "video_embed_link": "https://www.youtube.com/embed/0Jnda2FdgiE?list=PLxSt9YDBipm7aQInbxNmwUCfEBaFOliwb"
+        },
+        {
+          "video_id": 4,
+          "video_name": "Mathematical Problems",
+          "video_slug": "mathematical-problems",
+          "video_embed_link": "https://www.youtube.com/embed/z_yJwEIsLXM?list=PLxSt9YDBipm7aQInbxNmwUCfEBaFOliwb"
+        }
+      ]
+    }
+  ]
