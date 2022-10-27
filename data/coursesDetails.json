@@ -14,7 +14,7 @@
         "127 Videos",
         "135 Quiz",
         "900+ Smart Notes",
-        "200+ Table & Diagram"
+        "200+ Diagram"
       ],
       "learnFeatures": [
         "Everything you need to learn about physcis 1st paper",
@@ -39,7 +39,7 @@
         "100+ Videos",
         "60+ Quiz",
         "80+ Smart Notes",
-        "20+ Table & Diagram"
+        "20+ Diagram"
       ],
       "learnFeatures": [
         "Everything you need to learn about physcis 2nd paper",
@@ -64,7 +64,7 @@
         "70+ Videos",
         "80+ Quiz",
         "90+ Smart Notes",
-        "40+ Table & Diagram"
+        "40+ Diagram"
       ],
       "learnFeatures": [
         "Everything you need to learn about Math 1st Paper",
@@ -89,7 +89,7 @@
         "90+ Videos",
         "40+ Quiz",
         "50+ Smart Notes",
-        "20+ Table & Diagram"
+        "20+ Diagram"
       ],
       "learnFeatures": [
         "Everything you need to learn about Math 2nd Paper",
@@ -114,7 +114,7 @@
         "130+ Videos",
         "110+ Quiz",
         "80+ Smart Notes",
-        "90+ Table & Diagram"
+        "90+ Diagram"
       ],
       "learnFeatures": [
         "Everything you need to learn about Chemistry 1st Paper",
@@ -139,7 +139,7 @@
         "115+ Videos",
         "105+ Quiz",
         "70+ Smart Notes",
-        "60+ Table & Diagram"
+        "60+ Diagram"
       ],
       "learnFeatures": [
         "Everything you need to learn about Biology 1st Paper",
@@ -164,7 +164,7 @@
         "135+ Videos",
         "125+ Quiz",
         "102+ Smart Notes",
-        "50+ Table & Diagram"
+        "50+ Diagram"
       ],
       "learnFeatures": [
         "Everything you need to learn about Biology 2nd Paper",
@@ -189,7 +189,7 @@
         "135+ Videos",
         "125+ Quiz",
         "102+ Smart Notes",
-        "50+ Table & Diagram"
+        "50+ Diagram"
       ],
       "learnFeatures": [
         "Everything you need to learn about English",
@@ -205,7 +205,7 @@
       "course_slug": "hsc-ict-course",
       "cat_id": 6,
       "price": 1999,
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-english.png?alt=media&token=24a1bb6a-6f99-4ac5-9e5a-9a3649dc7a39",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-ict.png?alt=media&token=db70b8a6-c48f-4218-be8b-435fb7200c77",
       "course_description": "Full preparation guide on HSC ICT Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC ICT.",
       "instructorId": 1,
       "enrolledStudent": 34543,
@@ -214,7 +214,7 @@
         "160+ Videos",
         "140+ Quiz",
         "100+ Smart Notes",
-        "130+ Table & Diagram"
+        "130+ Diagram"
       ],
       "learnFeatures": [
         "Everything you need to learn about ICT",
