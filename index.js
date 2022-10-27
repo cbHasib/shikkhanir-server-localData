@@ -30,9 +30,16 @@ app.get("/courses", (req, res) => {
 
 app.get("/category/:id", (req, res) => {
   const id = req.params.id;
-  const currentCategoryData = allCoursesData.filter(
-    (course) => course.cat_id == id
-  );
+
+  let currentCategoryData = [];
+
+  if (id == 0) {
+    currentCategoryData = allCoursesData;
+  } else {
+    currentCategoryData = allCoursesData.filter(
+      (course) => course.cat_id == id
+    );
+  }
 
   if (currentCategoryData.length > 0) {
     res.json({

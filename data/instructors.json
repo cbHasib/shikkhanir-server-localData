@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Hasibul Hasan",
+      "designation": "BSc in PSHRD, RU",
+      "instructor_slug": "hasibul-hasan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FinstructorImage%2Fhasibul-hasan.jpeg?alt=media&token=8c7d9690-0a8d-401d-a0c6-f787f0762cc6",
+      "about": ""
+    },
+    {
+      "id": 2,
+      "name": "Toiyob Hossain",
+      "designation": "BSc in EEE, BUET",
+      "instructor_slug": "toiyob-hossain",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FinstructorImage%2F2-toiyob-hossain.png?alt=media&token=0833a807-50dc-4dbc-bbe9-a63661c361de",
+      "about": ""
+    }
+]

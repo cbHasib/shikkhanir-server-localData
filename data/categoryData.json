@@ -1,5 +1,10 @@
 [
     {
+      "cat_id": 0,
+      "cat_name": "All Courses",
+      "cat_slug": "all-courses"
+    },
+    {
       "cat_id": 1,
       "cat_name": "HSC Physics",
       "cat_slug": "hsc-physics"
