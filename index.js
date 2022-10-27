@@ -31,6 +31,28 @@ app.get("/courses", (req, res) => {
   }
 });
 
+app.get("/checkout/:id", (req, res) => {
+  const id = req.params.id;
+
+
+  const getCourseData = allCoursesData.find((course) => course.course_id == id);
+
+
+  if (getCourseData) {
+    res.json({
+      status: true,
+      code: 200,
+      data: getCourseData,
+    });
+  } else {
+    res.json({
+      status: false,
+      code: 404,
+      data: [],
+    });
+  }
+});
+
 app.get("/category/:id", (req, res) => {
   const id = req.params.id;
 
