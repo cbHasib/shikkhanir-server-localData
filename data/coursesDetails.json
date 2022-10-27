@@ -1,0 +1,227 @@
+[
+    {
+      "course_id": 1,
+      "course_title": "HSC Physics 1st Paper",
+      "course_slug": "hsc-physics-1st-paper",
+      "cat_id": 1,
+      "price": 2500,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-physics-1.png?alt=media&token=34a2a0d9-5169-42ae-8455-56c717da4c7b",
+      "course_description": "Full preparation guide on HSC Physics 1st Paper Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC Physics 1st Paper.",
+      "instructorId": 2,
+      "enrolledStudent": 1243,
+      "hoursRequired": 103,
+      "mainFeatures": [
+        "127 Videos",
+        "135 Quiz",
+        "900+ Smart Notes",
+        "200+ Table & Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about physcis 1st paper",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    },
+    {
+      "course_id": 2,
+      "course_title": "HSC Physics 2nd Paper",
+      "course_slug": "hsc-physics-2nd-paper",
+      "cat_id": 1,
+      "price": 2000,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-physics-2.png?alt=media&token=0f0adccd-12c9-453b-ad4a-c912314e8b79",
+      "course_description": "Full preparation guide on HSC Physics 2nd Paper Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC Physics 2nd Paper.",
+      "instructorId": 3,
+      "enrolledStudent": 8243,
+      "hoursRequired": 203,
+      "mainFeatures": [
+        "100+ Videos",
+        "60+ Quiz",
+        "80+ Smart Notes",
+        "20+ Table & Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about physcis 2nd paper",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    },
+    {
+      "course_id": 3,
+      "course_title": "HSC Higher Math 1st Paper",
+      "course_slug": "hsc-higher-math-1st-paper",
+      "cat_id": 2,
+      "price": 3999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-hmath-1.png?alt=media&token=3618c5d4-dd0e-484e-809a-30e5e9560701",
+      "course_description": "Full preparation guide on HSC Physics 2nd Paper Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC PMath 1st Paper.",
+      "instructorId": 3,
+      "enrolledStudent": 1843,
+      "hoursRequired": 96,
+      "mainFeatures": [
+        "70+ Videos",
+        "80+ Quiz",
+        "90+ Smart Notes",
+        "40+ Table & Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about Math 1st Paper",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    },
+    {
+      "course_id": 4,
+      "course_title": "HSC Higher Math 2nd Paper",
+      "course_slug": "hsc-higher-math-2nd-paper",
+      "cat_id": 2,
+      "price": 4000,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-hmath-2.png?alt=media&token=a9c768ff-36f8-4fa8-ab66-ae9b4de61c4f",
+      "course_description": "Full preparation guide on HSC Math 2nd Paper Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC Math 2nd Paper",
+      "instructorId": 2,
+      "enrolledStudent": 1373,
+      "hoursRequired": 104,
+      "mainFeatures": [
+        "90+ Videos",
+        "40+ Quiz",
+        "50+ Smart Notes",
+        "20+ Table & Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about Math 2nd Paper",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    },
+    {
+      "course_id": 5,
+      "course_title": "HSC Chemistry 1st Paper",
+      "course_slug": "hsc-chemistry-1st-paper",
+      "cat_id": 3,
+      "price": 2000,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-chemistry-1.png?alt=media&token=4a810341-2acd-47e6-bce9-c59e65a6e602",
+      "course_description": "Full preparation guide on HSC Chemistry 1st Paper Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC Chemistry 1st Paper.",
+      "instructorId": 3,
+      "enrolledStudent": 9373,
+      "hoursRequired": 80,
+      "mainFeatures": [
+        "130+ Videos",
+        "110+ Quiz",
+        "80+ Smart Notes",
+        "90+ Table & Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about Chemistry 1st Paper",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    },
+    {
+      "course_id": 6,
+      "course_title": "HSC Biology 1st Paper",
+      "course_slug": "hsc-biology-1st-paper",
+      "cat_id": 4,
+      "price": 2999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-biology-1.png?alt=media&token=7d4b3645-cdac-47a8-bd15-7a4cb0009136",
+      "course_description": "Full preparation guide on HSC Biology 1st Paper Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC Biology 1st Paper.",
+      "instructorId": 3,
+      "enrolledStudent": 34534,
+      "hoursRequired": 90,
+      "mainFeatures": [
+        "115+ Videos",
+        "105+ Quiz",
+        "70+ Smart Notes",
+        "60+ Table & Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about Biology 1st Paper",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    },
+    {
+      "course_id": 7,
+      "course_title": "HSC Biology 2nd Paper",
+      "course_slug": "hsc-biology-2nd-paper",
+      "cat_id": 4,
+      "price": 3999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-biology-2.png?alt=media&token=d26580fb-27de-45da-a272-03633d5c15df",
+      "course_description": "Full preparation guide on HSC Biology 2nd Paper Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC Biology 2nd Paper.",
+      "instructorId": 2,
+      "enrolledStudent": 74534,
+      "hoursRequired": 100,
+      "mainFeatures": [
+        "135+ Videos",
+        "125+ Quiz",
+        "102+ Smart Notes",
+        "50+ Table & Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about Biology 2nd Paper",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    },
+    {
+      "course_id": 8,
+      "course_title": "HSC English Course",
+      "course_slug": "hsc-english-course",
+      "cat_id": 5,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-english.png?alt=media&token=24a1bb6a-6f99-4ac5-9e5a-9a3649dc7a39",
+      "course_description": "Full preparation guide on HSC English Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC English.",
+      "instructorId": 2,
+      "enrolledStudent": 74534,
+      "hoursRequired": 100,
+      "mainFeatures": [
+        "135+ Videos",
+        "125+ Quiz",
+        "102+ Smart Notes",
+        "50+ Table & Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about English",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    },
+    {
+      "course_id": 9,
+      "course_title": "HSC ICT Course",
+      "course_slug": "hsc-ict-course",
+      "cat_id": 6,
+      "price": 1999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-english.png?alt=media&token=24a1bb6a-6f99-4ac5-9e5a-9a3649dc7a39",
+      "course_description": "Full preparation guide on HSC ICT Syllabus. Ensure maximum preparation in the shortest possible time. Enroll now and secure an A+ in HSC ICT.",
+      "instructorId": 1,
+      "enrolledStudent": 34543,
+      "hoursRequired": 120,
+      "mainFeatures": [
+        "160+ Videos",
+        "140+ Quiz",
+        "100+ Smart Notes",
+        "130+ Table & Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about ICT",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    }
+  ]

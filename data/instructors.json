@@ -14,5 +14,21 @@
       "instructor_slug": "toiyob-hossain",
       "image": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FinstructorImage%2F2-toiyob-hossain.png?alt=media&token=0833a807-50dc-4dbc-bbe9-a63661c361de",
       "about": ""
+    },
+    {
+      "id": 3,
+      "name": "Sudipta Das Shuva",
+      "designation": "MEd. in Education Leadership and School Improvement",
+      "instructor_slug": "sudipta-das-shuva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FinstructorImage%2F3-sudipta-das-shuva.png?alt=media&token=f75efb95-9c72-46ab-9445-848b5b2f7a9c",
+      "about": ""
+    },
+    {
+      "id": 4,
+      "name": "Zeeshan Zakaria",
+      "designation": "BSc Economics and Mathematics Royal Holloway, University of London",
+      "instructor_slug": "zeeshan-zakaria",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FinstructorImage%2F4-zeeshan-zakaria.png?alt=media&token=407cad95-92d4-4f48-ba77-d4fe38d923fe",
+      "about": ""
     }
 ]
