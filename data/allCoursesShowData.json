@@ -1,0 +1,74 @@
+[
+    {
+      "course_id": 1,
+      "course_title": "HSC Physics 1st Paper",
+      "course_slug": "hsc-physics-1st-paper",
+      "cat_id": 1,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-physics-1.png?alt=media&token=34a2a0d9-5169-42ae-8455-56c717da4c7b"
+    },
+    {
+      "course_id": 2,
+      "course_title": "HSC Physics 2nd Paper",
+      "course_slug": "hsc-physics-2nd-paper",
+      "cat_id": 1,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-physics-2.png?alt=media&token=0f0adccd-12c9-453b-ad4a-c912314e8b79"
+    },
+    {
+      "course_id": 3,
+      "course_title": "HSC Higher Math 1st Paper",
+      "course_slug": "hsc-higher-math-1st-paper",
+      "cat_id": 2,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-hmath-1.png?alt=media&token=3618c5d4-dd0e-484e-809a-30e5e9560701"
+    },
+    {
+      "course_id": 4,
+      "course_title": "HSC Higher Math 2nd Paper",
+      "course_slug": "hsc-higher-math-2nd-paper",
+      "cat_id": 2,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-hmath-2.png?alt=media&token=a9c768ff-36f8-4fa8-ab66-ae9b4de61c4f"
+    },
+    {
+      "course_id": 5,
+      "course_title": "HSC Chemistry 1st Paper",
+      "course_slug": "hsc-chemistry-1st-paper",
+      "cat_id": 3,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-chemistry-1.png?alt=media&token=4a810341-2acd-47e6-bce9-c59e65a6e602"
+    },
+    {
+      "course_id": 6,
+      "course_title": "HSC Biology 1st Paper",
+      "course_slug": "hsc-biology-1st-paper",
+      "cat_id": 4,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-biology-1.png?alt=media&token=7d4b3645-cdac-47a8-bd15-7a4cb0009136"
+    },
+    {
+      "course_id": 7,
+      "course_title": "HSC Biology 2nd Paper",
+      "course_slug": "hsc-biology-2nd-paper",
+      "cat_id": 4,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-biology-2.png?alt=media&token=d26580fb-27de-45da-a272-03633d5c15df"
+    },
+    {
+      "course_id": 8,
+      "course_title": "HSC English Course",
+      "course_slug": "hsc-english-course",
+      "cat_id": 5,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-english.png?alt=media&token=24a1bb6a-6f99-4ac5-9e5a-9a3649dc7a39"
+    },
+    {
+      "course_id": 9,
+      "course_title": "HSC ICT Course",
+      "course_slug": "hsc-ict-course",
+      "cat_id": 6,
+      "price": 4999,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-english.png?alt=media&token=24a1bb6a-6f99-4ac5-9e5a-9a3649dc7a39"
+    }
+  ]

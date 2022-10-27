@@ -1,0 +1,32 @@
+[
+    {
+      "cat_id": 1,
+      "cat_name": "HSC Physics",
+      "cat_slug": "hsc-physics"
+    },
+    {
+      "cat_id": 2,
+      "cat_name": "HSC Mathematics",
+      "cat_slug": "hsc-mathematics"
+    },
+    {
+      "cat_id": 3,
+      "cat_name": "HSC Chemistry",
+      "cat_slug": "hsc-chemistry"
+    },
+    {
+      "cat_id": 4,
+      "cat_name": "HSC Biology",
+      "cat_slug": "hsc-biology"
+    },
+    {
+      "cat_id": 5,
+      "cat_name": "HSC English",
+      "cat_slug": "hsc-english"
+    },
+    {
+      "cat_id": 6,
+      "cat_name": "HSC ICT",
+      "cat_slug": "hsc-ict"
+    }
+  ]
