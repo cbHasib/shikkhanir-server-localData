@@ -70,5 +70,13 @@
       "cat_id": 6,
       "price": 1999,
       "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2Fhsc-ict.png?alt=media&token=db70b8a6-c48f-4218-be8b-435fb7200c77"
+    },
+    {
+      "course_id": 10,
+      "course_title": "HSC Chemistry - Chemical Changes",
+      "course_slug": "hsc-chemistry-chemical-changes",
+      "cat_id": 3,
+      "price": 0,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2FHSC%20Chemistry%20-%20Chemical%20Changes.jpg?alt=media&token=36c44e55-c242-44c3-95c7-a27f8721bee8"
     }
   ]

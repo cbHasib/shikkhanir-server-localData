@@ -223,5 +223,30 @@
         "Course validity: 12 months"
       ],
       "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
+    },
+    {
+      "course_id": 10,
+      "course_title": "HSC Chemistry - Chemical Changes",
+      "course_slug": "hsc-chemistry-chemical-changes",
+      "cat_id": 3,
+      "price": 0,
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/pshrd-d7d9f.appspot.com/o/shikkhanirServerWeb%2FcourseImage%2FhscCourseThumb%2FHSC%20Chemistry%20-%20Chemical%20Changes.jpg?alt=media&token=36c44e55-c242-44c3-95c7-a27f8721bee8",
+      "course_description": "Full preparation guide on HSC Chemistry - Chemical Changes. Ensure maximum preparation in the shortest possible time. Enroll now and get highest marks in HSC Chemistry - Chemical Changes.",
+      "instructorId": 1,
+      "enrolledStudent": 34543,
+      "hoursRequired": 3,
+      "mainFeatures": [
+        "4 Videos",
+        "0 Quiz",
+        "0 Smart Notes",
+        "0 Diagram"
+      ],
+      "learnFeatures": [
+        "Everything you need to learn about HSC Chemistry - Chemical Changes",
+        "All resourses including quiz, recorded class, notes etc",
+        "Can join from anywhere",
+        "Course validity: 12 months"
+      ],
+      "courseAbout": "<p></p><p><strong class=\"text-lg\">Requirements</strong><br />This course is designed for HSC 1st and 2nd year students and HSC candidates.<br/><p><strong class=\"text-lg\">About this course</strong></p><ul class=\"ml-4\"><li class=\"list-disc list-inside\">The course will act as a replacement for your guide book to master all physics topics with problem solving and board question answers.</li><li class=\"list-disc list-inside\">The smart note feature will help save time to get rid of the hassle of writing notes.</li><li class=\"list-disc list-inside\">The only way to revise is by watching the video over and over again.</li></ul>"
     }
   ]
