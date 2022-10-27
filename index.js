@@ -10,6 +10,7 @@ const allCoursesData = require("./data/allCoursesShowData.json");
 const instructorData = require("./data/instructors.json");
 const coursesDetails = require("./data/coursesDetails.json");
 const blogsData = require("./data/blogsData.json");
+const allCourseContent = require("./data/allCourseContent.json");
 
 app.get("/", (req, res) => {
   res.send("ShikkhaNir API is running");
@@ -34,9 +35,7 @@ app.get("/courses", (req, res) => {
 app.get("/checkout/:id", (req, res) => {
   const id = req.params.id;
 
-
   const getCourseData = allCoursesData.find((course) => course.course_id == id);
-
 
   if (getCourseData) {
     res.json({
@@ -162,6 +161,27 @@ app.get("/single-blog/:slug", (req, res) => {
       status: true,
       code: 200,
       data: blog,
+    });
+  } else {
+    res.json({
+      status: false,
+      code: 404,
+      data: {},
+    });
+  }
+});
+
+// Course Content Management
+app.get("/course-content/:id", (req, res) => {
+  const id = req.params.id;
+
+  const course = allCourseContent.find((c) => c.course_id == id);
+
+  if (course) {
+    res.json({
+      status: true,
+      code: 200,
+      data: course,
     });
   } else {
     res.json({
